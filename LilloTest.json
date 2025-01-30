@@ -11,8 +11,8 @@
     {
       "id": "https://iiif.io/api/cookbook/recipe/0033-choice/canvas/p1",
       "type": "Canvas",
-      "height": 1271,
-      "width": 2000,
+      "height": 4833,
+      "width": 6033,
       "items": [
         {
           "id": "https://iiif.io/api/cookbook/recipe/0033-choice/page/p1/1",
@@ -26,40 +26,40 @@
                 "type": "Choice",
                 "items": [
                   {
-                    "id": "https://iiif.io/api/image/3.0/example/reference/421e65be2ce95439b3ad6ef1f2ab87a9-dee-natural/full/max/0/default.jpg",
+                    "id": "https://adore.ugent.be/IIIF/v3/images/archive.ugent.be%3A69E8259A-AF5D-11DF-8C24-BF4379F64438%3ADS.1/full/max/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 2000,
-                    "height": 1271,
+                    "width": 6033,
+                    "height": 4833,
                     "label": {
                       "en": [
-                        "Natural Light"
+                        "Jean Massart"
                       ]
                     },
                     "service": [
                       {
-                        "id": "https://iiif.io/api/image/3.0/example/reference/421e65be2ce95439b3ad6ef1f2ab87a9-dee-natural",
+                        "id": "https://adore.ugent.be/IIIF/v3/images/archive.ugent.be%3A69E8259A-AF5D-11DF-8C24-BF4379F64438%3ADS.1",
                         "type": "ImageService3",
-                        "profile": "level1"
+                        "profile": "level2"
                       }
                     ]
                   },
                   {
-                    "id": "https://iiif.io/api/image/3.0/example/reference/421e65be2ce95439b3ad6ef1f2ab87a9-dee-xray/full/max/0/default.jpg",
+                    "id": "https://adore.ugent.be/IIIF/v3/images/archive.ugent.be%3AF31EFD26-AF5C-11DF-A3ED-FB3C79F64438%3ADS.1/full/max/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 2000,
-                    "height": 1271,
+                    "width": 5018,
+                    "height": 3547,
                     "label": {
                       "en": [
-                        "X-Ray"
+                        "Recollecting landscapes"
                       ]
                     },
                     "service": [
                       {
-                        "id": "https://iiif.io/api/image/3.0/example/reference/421e65be2ce95439b3ad6ef1f2ab87a9-dee-xray",
+                        "id": "https://adore.ugent.be/IIIF/v3/images/archive.ugent.be%3AF31EFD26-AF5C-11DF-A3ED-FB3C79F64438%3ADS.1",
                         "type": "ImageService3",
-                        "profile": "level1"
+                        "profile": "level2"
                       }
                     ]
                   }
