@@ -1,0 +1,96 @@
+{
+  "id": "https://dev.annotations.allmaps.org/maps/1a2a867e3f0d9b3c",
+  "type": "Annotation",
+  "@context": [
+    "http://iiif.io/api/extension/georef/1/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "created": "2025-01-31T08:37:20.596Z",
+  "modified": "2025-01-31T08:37:20.596Z",
+  "motivation": "georeferencing",
+  "target": {
+    "type": "SpecificResource",
+    "source": {
+      "id": "https://loris.antwerpen.be/https%3A%2F%2Fs3-ant1.antwerpen.be%2Fprod-digitalassets-dams%2FZ%2FZVYZhRN4ZWaFjYaLySrWe9HB%2FAV.1988.007.jpg",
+      "type": "ImageService2",
+      "height": 11134,
+      "width": 11966
+    },
+    "selector": {
+      "type": "SvgSelector",
+      "value": "\u003Csvg width=\"11966\" height=\"11134\"\u003E\u003Cpolygon points=\"547,560 11424,587 11376,10459 657,10543\" /\u003E\u003C/svg\u003E"
+    }
+  },
+  "body": {
+    "type": "FeatureCollection",
+    "transformation": {
+      "type": "polynomial",
+      "options": {
+        "order": 1
+      }
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "resourceCoords": [4999, 9835]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [4.0884797, 51.0318932]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "resourceCoords": [1538, 8867]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.7960931, 51.048639]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "resourceCoords": [3426, 6750]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.9478894, 51.1717461]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "resourceCoords": [8407, 8815]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [4.3050258, 51.1226516]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "resourceCoords": [9965, 6927]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [4.3770401, 51.2361787]
+        }
+      }
+    ],
+    "_allmaps": {
+      "id": "https://dev.annotations.allmaps.org/maps/1a2a867e3f0d9b3c",
+      "version": "https://dev.annotations.allmaps.org/maps/1a2a867e3f0d9b3c@74efe3544bcb2f19",
+      "image": {
+        "id": "https://dev.annotations.allmaps.org/images/186dd54319bf64ff",
+        "version": "https://dev.annotations.allmaps.org/images/186dd54319bf64ff@f7209ab54f8dde58",
+        "canvases": []
+      },
+      "scale": 0.186983,
+      "area": 3066088457.4
+    }
+  }
+}
